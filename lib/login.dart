@@ -139,7 +139,7 @@ class _loginState extends State<login> {
               onPressed: () {
                 Navigator.of(
                   context,
-                ).push(MaterialPageRoute(builder: (context) => Magnifier()));
+                ).push(MaterialPageRoute(builder: (context) =>Mainff()));
               },
               child: Text(
                 "اشترك",
